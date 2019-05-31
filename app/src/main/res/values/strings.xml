@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Test</string>
+    <string name="title">Only for Saphira</string>
+    <string name="buttonStart">Start</string>
+    <string name="desc">Picture</string>
+    <string name="liebe">Beweis deine Liebe und Klick so schnell du kannst</string>
+    <string name="deineLiebe">Deine Liebe zu mir ist:</string>
 </resources>
